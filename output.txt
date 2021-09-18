@@ -3,7 +3,6 @@ All Availabe Products with their Prices are
 ----------------------------------------------------------------------
 Redmi Note 8 :20000
 Dell Laptop:23000
-Sandisk 1TB HDD:6000
 MI TV:17999
 Cannon Camera:25000
 Microwave Oven:16000
@@ -16,10 +15,10 @@ Number of Employees that Receives Goodie are 5
 ----------------------------------------------------------------------
 Redmi Note 8 :20000
 Dell Laptop:23000
-Sandisk 1TB HDD:6000
 MI TV:17999
 Cannon Camera:25000
+Microwave Oven:16000
 ----------------------------------------------------------------------
-Maximim Value is 25000 and Minimum Value is 6000
+Maximim Value is 25000 and Minimum Value is 16000
 ----------------------------------------------------------------------
-Difference between the chosen goodie with highestprice and the lowest price is 19000
+Difference between the chosen goodie with highestprice and the lowest price is 9000
